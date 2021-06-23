@@ -8,7 +8,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.Language.Xml" Version="1.1.20" />
-    <PackageReference Include="Microsoft.VisualStudio.Validation" Version="17.0.12-alpha" />
+    <PackageReference Include="Microsoft.VisualStudio.Sdk" Version="17.0.0-previews-1-31410-273" />
     <Reference Update="**\Microsoft.Language.Xml.dll" CopyLocal="true" />
   </ItemGroup>
 
