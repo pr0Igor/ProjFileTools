@@ -75,14 +75,11 @@ Selecting an item from the list, will open the corresponding location in the edi
 Check out the [contribution guidelines](CONTRIBUTING.md)
 if you want to contribute to this project.
 
-For cloning and building this project yourself, make sure
-to install the
+For cloning and building this project yourself, make sureto install the
 ~~OBSOLETE [Extensibility Tools 2015](https://visualstudiogallery.msdn.microsoft.com/ab39a092-1343-46e2-b0f1-6a3f91155aa6)
-extension for Visual Studio which enables some features used by this project.~~
+extension for Visual Studio which enables some features used by this project.~~ [Extensibility Tools 2015 will not be updated.](https://github.com/madskristensen/ExtensibilityTools/pull/71#issuecomment-771020149).
 
-Striked because of : [Extensibility Tools 2015 will not be updated. Owner Comment](https://github.com/madskristensen/ExtensibilityTools/pull/71#issuecomment-771020149).
-
-[Extensibility Essentials 2022](https://www.vsixgallery.com/extension/4c38fd13-e407-4da6-a7b2-a04346af8943).
+Use [Extensibility Essentials 2022](https://www.vsixgallery.com/extension/4c38fd13-e407-4da6-a7b2-a04346af8943).
 
 
 ## License
