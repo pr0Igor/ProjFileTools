@@ -1,10 +1,10 @@
 # Project File Tools
 
 <!-- Replace this badge with your own-->
-[![Build status](https://ci.appveyor.com/api/projects/status/hv6uyc059rqbc6fj?svg=true)](https://ci.appveyor.com/project/madskristensen/extensibilitytools)
+~~[![Build status](https://ci.appveyor.com/api/projects/status/hv6uyc059rqbc6fj?svg=true)](https://ci.appveyor.com/project/madskristensen/extensibilitytools)~~
 
 <!-- Update the VS Gallery link after you upload the VSIX-->
-Download this extension from the [VS Gallery](https://aka.ms/projfiletools).
+~~Download this extension from the [VS Gallery](https://aka.ms/projfiletools).~~
 
 ---------------------------------------
 
@@ -75,7 +75,7 @@ Selecting an item from the list, will open the corresponding location in the edi
 Check out the [contribution guidelines](CONTRIBUTING.md)
 if you want to contribute to this project.
 
-For cloning and building this project yourself, make sureto install the
+For cloning and building this project yourself, make sure to install the
 ~~OBSOLETE [Extensibility Tools 2015](https://visualstudiogallery.msdn.microsoft.com/ab39a092-1343-46e2-b0f1-6a3f91155aa6)
 extension for Visual Studio which enables some features used by this project.~~ [Extensibility Tools 2015 will not be updated.](https://github.com/madskristensen/ExtensibilityTools/pull/71#issuecomment-771020149).
 
